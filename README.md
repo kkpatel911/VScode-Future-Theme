@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "future-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# <hr>**Future Theme**
+<br>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Installation
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Future theme` - find the one by **Endormi**.
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor
+5. Code > Preferences > Color Theme > **2077**
+
+## Credits
+
+Inspired by [samrap's](https://github.com/samrap) awesome [outrun](https://github.com/samrap/outrun-theme-vscode) theme. I edited the theme quite significantly to follow the Cyberpunk 2077 color palette.
+
+If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/endormi/vscode-2077-theme/issues) not a [PR](https://github.com/endormi/vscode-2077-theme/issues/17).
+
+[Icon](https://www.freepik.com/free-vector/night-city-skyline-background_1276620.htm) used.
 
 **Enjoy!**

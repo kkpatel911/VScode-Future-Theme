@@ -2,7 +2,7 @@
 	"name": "Future Theme",
 	"type": "light",
 	"colors": {
-		"editor.background": "#fffafa",
+		"editor.background": "#edf0f5",
 		"editor.foreground": "#333333"
 	},
 	"tokenColors": [
@@ -14,7 +14,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#cea6a6"
 			}
 		},
 		{
@@ -98,7 +98,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#fd0d00c5"
 			}
 		},
 		{
